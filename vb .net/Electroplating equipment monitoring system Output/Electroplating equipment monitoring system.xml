@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Electroplating equipment monitoring system
+</name>
+</assembly>
+<members>
+<member name="T:Electroplating_equipment_monitoring_system.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Electroplating_equipment_monitoring_system.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Electroplating_equipment_monitoring_system.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Electroplating_equipment_monitoring_system.My.Resources.Resources.Artboard_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Electroplating_equipment_monitoring_system.My.Resources.Resources.banner">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Electroplating_equipment_monitoring_system.My.Resources.Resources.banner1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Electroplating_equipment_monitoring_system.My.Resources.Resources.Forgot_got_Focous">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Electroplating_equipment_monitoring_system.My.Resources.Resources.Forgot_Lost_Focous">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Electroplating_equipment_monitoring_system.My.Resources.Resources.Login_user_got_Focous">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Electroplating_equipment_monitoring_system.My.Resources.Resources.Login_user_Lost_Focous">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Electroplating_equipment_monitoring_system.My.Resources.Resources.Mesa_de_trabajo_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Electroplating_equipment_monitoring_system.My.Resources.Resources.user_add__Got_Focous">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Electroplating_equipment_monitoring_system.My.Resources.Resources.user_add__Lost_Focous">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

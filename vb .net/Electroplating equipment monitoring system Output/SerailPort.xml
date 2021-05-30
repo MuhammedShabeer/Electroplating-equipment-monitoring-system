@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SerialPortSettings>
+	<port>1</port>
+	<setting>9600,e,7,2</setting>
+	<SerialNo>5091</SerialNo>
+</SerialPortSettings>

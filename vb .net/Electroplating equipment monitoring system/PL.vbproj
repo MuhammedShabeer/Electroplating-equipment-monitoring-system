@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8AEFEDA7-6380-4609-9944-3B8ACF88BAE0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Electroplating_equipment_monitoring_system.My.MyApplication</StartupObject>
+    <RootNamespace>Electroplating_equipment_monitoring_system</RootNamespace>
+    <AssemblyName>Electroplating equipment monitoring system</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\Electroplating equipment monitoring system Output\</OutputPath>
+    <DocumentationFile>Electroplating equipment monitoring system.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Electroplating equipment monitoring system.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Text</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app_logo_Iqa_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DL">
+      <HintPath>..\DL\bin\Debug\DL.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.3.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb" />
+    <Compile Include="frmFaultRecord.Designer.vb">
+      <DependentUpon>frmFaultRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmFaultRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManagmentSystem.Designer.vb">
+      <DependentUpon>frmManagmentSystem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmManagmentSystem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMdiMainScreen.Designer.vb">
+      <DependentUpon>frmMdiMainScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMdiMainScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOperatorRecord.Designer.vb">
+      <DependentUpon>frmOperatorRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOperatorRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPNEdit.Designer.vb">
+      <DependentUpon>frmPNEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPNEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPNoperation.Designer.vb">
+      <DependentUpon>frmPNoperation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPNoperation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplashScreen.Designer.vb">
+      <DependentUpon>frmSplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextBoxValidations.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFaultRecord.resx">
+      <DependentUpon>frmFaultRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManagmentSystem.resx">
+      <DependentUpon>frmManagmentSystem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMdiMainScreen.resx">
+      <DependentUpon>frmMdiMainScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOperatorRecord.resx">
+      <DependentUpon>frmOperatorRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPNEdit.resx">
+      <DependentUpon>frmPNEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPNoperation.resx">
+      <DependentUpon>frmPNoperation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplashScreen.resx">
+      <DependentUpon>frmSplashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
+    <None Include="Add_liao.frm" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICONEW\Artboard 1.png" />
+    <None Include="ICONEW\Mesa de trabajo 1.png" />
+    <None Include="ICONEW\banner.jpg" />
+    <Content Include="app_logo_Iqa_icon.ico" />
+    <Content Include="SerailPort.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ServerConnection.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="ICONEW\Edited\user add  Lost Focous.png" />
+    <None Include="ICONEW\Edited\user add  Got Focous.png" />
+    <None Include="ICONEW\Edited\Login user Lost Focous.png" />
+    <None Include="ICONEW\Edited\Login user got Focous.png" />
+    <None Include="ICONEW\Edited\Forgot Lost Focous.png" />
+    <None Include="ICONEW\Edited\Forgot got Focous.png" />
+    <Content Include="Ico\APPLICAT.ICO" />
+    <Content Include="Ico\aptiva520.ico" />
+    <Content Include="Ico\BEBOX WA.ICO" />
+    <Content Include="Ico\BOX HD.ICO" />
+    <Content Include="Ico\CrawlerLoader.ico" />
+    <Content Include="Ico\diffusion1.ico" />
+    <Content Include="Ico\doc-edit.ico" />
+    <Content Include="Ico\floopy.ico" />
+    <Content Include="Ico\g-doc.ico" />
+    <Content Include="Ico\g-doc2.ico" />
+    <Content Include="Ico\graph9.ico" />
+    <Content Include="Ico\harrow.cur" />
+    <Content Include="Ico\Ico02 020.ico" />
+    <Content Include="Ico\Ico02 022.ico" />
+    <Content Include="Ico\Ico02 023.ico" />
+    <Content Include="Ico\Ico02 031.ico" />
+    <Content Include="Ico\Ico02 033.ico" />
+    <Content Include="Ico\ICO\24Record.ico" />
+    <Content Include="Ico\ICO\ACTIVITL.ICO" />
+    <Content Include="Ico\ICO\ARW04DN.ICO" />
+    <Content Include="Ico\ICO\br.JPG" />
+    <Content Include="Ico\ICO\CurrentPanelTab.bmp" />
+    <Content Include="Ico\ICO\CurrentTab.bmp" />
+    <Content Include="Ico\ICO\DISTLSTL.ICO" />
+    <Content Include="Ico\ICO\export.gif" />
+    <Content Include="Ico\ICO\FILER.ICO" />
+    <Content Include="Ico\ICO\findjoin.ico" />
+    <Content Include="Ico\ICO\harrow.cur" />
+    <Content Include="Ico\ICO\hns.cur" />
+    <Content Include="Ico\ICO\hnwse.cur" />
+    <Content Include="Ico\ICO\hwe.cur" />
+    <Content Include="Ico\ICO\OOFL.ICO" />
+    <Content Include="Ico\ICO\OOFS.ICO" />
+    <Content Include="Ico\ICO\POINT03.ICO" />
+    <Content Include="Ico\ICO\readebook.gif" />
+    <Content Include="Ico\ICO\RECYCLIN.ICO" />
+    <Content Include="Ico\MAIL 3.ICO" />
+    <Content Include="Ico\Manual67.gif" />
+    <Content Include="Ico\NEW TEXT.ICO" />
+    <Content Include="Ico\ranger1.ico" />
+    <Content Include="Ico\ranger2.ico" />
+    <Content Include="Ico\RECYCLIN.ICO" />
+    <Content Include="Ico\Swan.ico" />
+    <Content Include="Ico\YAO2.ico" />
+    <Content Include="Ico\YAO3.ico" />
+    <Content Include="Ico\YAO8.ico" />
+    <Content Include="Ico\zx.bmp" />
+    <Content Include="Ico\ZX.jpg" />
+    <Content Include="Ico\zx1.bmp" />
+    <Content Include="Ico\中新.bmp" />
+    <Content Include="Ico\工程2.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

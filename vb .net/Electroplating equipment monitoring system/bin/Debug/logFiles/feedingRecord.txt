@@ -1,0 +1,8 @@
+Number slot :A side Deleted item : new itemQTY :12301-42-2021 03:42:00 PM
+Number slot :A side Deleted item : 1233QTY :101-59-2021 03:59:19 PM
+Number slot :B side Deleted item : 1233QTY :101-59-2021 03:59:24 PM
+Number slot :A side Deleted item : 1233QTY :201-59-2021 03:59:35 PM
+Number slot :A side Deleted item : 2QTY :201-59-2021 03:59:37 PM
+Number slot :A side Deleted item : 3QTY :301-59-2021 03:59:40 PM
+Number slot :A side Deleted item : 4QTY :401-59-2021 03:59:42 PM
+Number slot :A side Deleted item : 5QTY :501-59-2021 03:59:48 PM

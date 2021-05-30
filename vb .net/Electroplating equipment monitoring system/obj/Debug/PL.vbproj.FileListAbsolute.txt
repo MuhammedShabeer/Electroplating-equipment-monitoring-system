@@ -1,0 +1,39 @@
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\bin\Debug\Electroplating equipment monitoring system.exe
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\bin\Debug\Electroplating equipment monitoring system.pdb
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\bin\Debug\Electroplating equipment monitoring system.xml
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\PL.vbprojAssemblyReference.cache
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\Electroplating_equipment_monitoring_system.frmLogin.resources
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\Electroplating_equipment_monitoring_system.Resources.resources
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\PL.vbproj.GenerateResource.cache
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\PL.vbproj.CoreCompileInputs.cache
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\Electroplating equipment monitoring system.exe
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\Electroplating equipment monitoring system.xml
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\Electroplating equipment monitoring system.pdb
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\bin\Debug\DL.dll
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\bin\Debug\DL.pdb
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\PL.vbproj.CopyComplete
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\bin\Debug\DL.dll.config
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\bin\Debug\ServerConnection.xml
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\Electroplating_equipment_monitoring_system.frmMdiMainScreen.resources
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\Electroplating_equipment_monitoring_system.frmFaultRecord.resources
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\Electroplating_equipment_monitoring_system.frmOperatorRecord.resources
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\Electroplating_equipment_monitoring_system.Form1.resources
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\Electroplating_equipment_monitoring_system.frmPNoperation.resources
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\Electroplating_equipment_monitoring_system.frmPNEdit.resources
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\bin\Debug\DL.xml
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\Electroplating_equipment_monitoring_system.frmSplashScreen.resources
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\obj\Debug\Electroplating_equipment_monitoring_system.frmManagmentSystem.resources
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\Electroplating equipment monitoring system Output\ServerConnection.xml
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\Electroplating equipment monitoring system Output\Electroplating equipment monitoring system.exe
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\Electroplating equipment monitoring system Output\Electroplating equipment monitoring system.pdb
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\Electroplating equipment monitoring system Output\Electroplating equipment monitoring system.xml
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\Electroplating equipment monitoring system Output\DL.dll
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\Electroplating equipment monitoring system Output\MySql.Data.dll
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\Electroplating equipment monitoring system Output\DL.pdb
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\Electroplating equipment monitoring system Output\DL.xml
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system\Electroplating equipment monitoring system Output\DL.dll.config
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system Output\ServerConnection.xml
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system Output\Electroplating equipment monitoring system.exe
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system Output\Electroplating equipment monitoring system.pdb
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system Output\Electroplating equipment monitoring system.xml
+C:\Users\Shabeer\Desktop\shixiong project\New Project\vb .net\Electroplating equipment monitoring system Output\SerailPort.xml
